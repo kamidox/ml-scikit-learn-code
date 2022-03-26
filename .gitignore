@@ -1,0 +1,8 @@
+# Customize
+*.pyc
+.venv
+.DS_Store
+.ipynb_checkpoints
+datasets/mlcomp/379
+datasets/clustering/data
+
